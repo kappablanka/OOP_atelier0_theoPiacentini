@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a9bcd5b-1d8f-4b5c-a2b2-465785c18c72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ManipRob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot.java" afterDir="false" />
+    <list default="true" id="9a9bcd5b-1d8f-4b5c-a2b2-465785c18c72" name="Changes" comment="Debut">
+      <change afterPath="$PROJECT_DIR$/src/Question_exercices_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vecteur3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManipRob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManipRob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theop\IdeaProjects\atelier0_theoPiacentini\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,8 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1663597981845</updated>
       <workItem from="1663597983275" duration="757000" />
-      <workItem from="1663656570420" duration="1566000" />
+      <workItem from="1663656570420" duration="8153000" />
     </task>
+    <task id="LOCAL-00001" summary="Debut">
+      <created>1663658411919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663658411919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Debut" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debut" />
   </component>
 </project>

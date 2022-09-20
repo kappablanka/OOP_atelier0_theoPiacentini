@@ -1,0 +1,39 @@
+Question 3.1
+
+1.
+2
+
+2.
+Toutes sont static elles appartiennent donc à la classe et non à un objet de la classe
+
+3.
+random()
+
+4.
+max(double a, double b)
+max(float a, float b)
+max(int a, int b)
+max(long a, long b)
+4, le type des paramètres change.
+
+5.
+1ʳᵉ fausse, car un seul element passé en paramètre et 2ᵉ juste (résultat = 6)
+
+Question 3.2
+
+1.
+int compareTo(String anotherString)
+Méthode d'instance car pas de mot clé "static"
+
+2.
+La méthode compareTo renvoie un int et nom un str.
+compareTo est une méthode d'instance et non de classe
+
+3.
+int length()
+C'est une méthode d'instance.
+
+4.
+Il faut remplacer String par st sur la ligne 2, car length est une méthode d'instance.
+
+
